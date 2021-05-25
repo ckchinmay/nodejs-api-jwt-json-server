@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-api-jwt-json-server",
+  "version": "1.0.0",
+  "description": "NodeJS wrapper around json-server with JWT authentication",
+  "main": "server.js",
+  "scripts": {
+    "start": "json-server --watch ./database.json",
+    "start-auth": "node server.js"
+  },
+  "author": "Chinmay Kulkarni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "json-server": "^0.14.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}

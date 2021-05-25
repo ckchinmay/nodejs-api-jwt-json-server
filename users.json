@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "ck1@email.com",
+            "password": "ck1#pass",
+            "fname": "Chinmay1",
+            "lname": "Kulkarni1"
+        },
+        {
+            "id": 2,
+            "email": "ck2@email.com",
+            "password": "ck2#pass",
+            "fname": "Chinmay2",
+            "lname": "Kulkarni2"
+        }
+    ]
+}

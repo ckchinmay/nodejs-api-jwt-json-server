@@ -1,0 +1,128 @@
+{
+  "bugtracking": [
+    {
+      "issue_name": "some issue",
+      "issue_message": "there is some issue dfgfdg",
+      "id": 2
+    },
+    {
+      "issue_name": "page not visible",
+      "issue_message": "Not able to view contents on the page.",
+      "id": 3
+    },
+    {
+      "issue_name": "UI lag",
+      "issue_message": "very slow",
+      "id": 4
+    },
+    {
+      "issue_name": "awe",
+      "issue_message": "dsgsfdg fdgsfdg\nfdgsfdg i \nok\nB\ndsgfsdg",
+      "id": 5
+    },
+    {
+      "issue_name": "ck issue1",
+      "issue_message": "ck details1",
+      "id": 7
+    },
+    {
+      "issue_name": "bored",
+      "issue_message": "bored in the house",
+      "id": 8
+    }
+  ],
+  "posts": [
+    {
+      "title": "some issue",
+      "body": "there is some programmer dsfdsf",
+      "gender": "male",
+      "country": "Ireland",
+      "city": "Dublin",
+      "id": 1
+    },
+    {
+      "title": "page not visible",
+      "body": "Not able to view contents on the page.",
+      "gender": "male",
+      "country": "Ireland",
+      "city": "Dublin",
+      "id": 3
+    },
+    {
+      "title": "UI lag",
+      "body": "very slowdsfds dsfdsf",
+      "gender": "female",
+      "country": "USA",
+      "city": "New York",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "title": "hgfdsa",
+      "body": "dgfds",
+      "gender": "female",
+      "country": "Ireland",
+      "city": "Galway"
+    },
+    {
+      "title": "lockdown",
+      "body": "This is amazing.",
+      "gender": "male",
+      "country": "USA",
+      "city": "New York",
+      "id": 8
+    },
+    {
+      "title": "corona",
+      "body": "i'll get you all eventually",
+      "gender": "female",
+      "country": "Ireland",
+      "city": "Dublin",
+      "id": 9
+    },
+    {
+      "title": "my post",
+      "body": "my post body",
+      "gender": "male",
+      "country": "Ireland",
+      "city": "Cork",
+      "id": 10
+    },
+    {
+      "title": "healthy mind",
+      "body": "let's you enjoy everything",
+      "gender": "male",
+      "country": "USA",
+      "city": "Los Angeles",
+      "id": 11
+    },
+    {
+      "title": "demo title",
+      "body": "demo body",
+      "gender": "female",
+      "country": "Ireland",
+      "city": "Galway",
+      "id": 12
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Sebastian",
+      "lastName": "Eschweiler",
+      "emailId": "sebastian@codingthesmartway.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Steve",
+      "lastName": "Palmer",
+      "emailId": "steve@codingthesmartway.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Ann",
+      "lastName": "Smith",
+      "emailId": "ann@codingthesmartway.com"
+    }
+  ]
+}
